@@ -1,0 +1,2 @@
+# Directory for Clickwise local assets (icons, SVGs, images)
+# All files in website/ will be packaged into Clickwise_AWS_Upload.zip for Amazon S3

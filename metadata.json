@@ -1,0 +1,6 @@
+{
+  "name": "Clickwise - Cybersecurity Awareness on AWS",
+  "description": "Educational cybersecurity awareness field guide for students with AWS S3 and CloudFront secure deployment documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
